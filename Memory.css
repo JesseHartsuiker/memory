@@ -1,0 +1,21 @@
+body{
+    font-family: 'Copse', Serif;
+    text-align: center;
+}
+
+#cards{
+    width: 1500px;
+    height: 2000px;
+    border: solid 1px black;
+    font-size: 0px;
+    margin: auto;
+
+}
+div.birdpicture{
+    box-sizing: border-box;
+    height: 400px;
+    width: 500px;
+    float: left;
+    background-color: white;
+    border: solid 1px black;
+}
